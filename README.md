@@ -39,12 +39,12 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 *
 ### Juurdepääsuõiguste kontrollimine:
-    Funktsiooni isAdmin() <sup> kasutatakse kontrollimaks, kas praegune</sup>  kasutaja on administraator.
+    Funktsiooni isAdmin() kasutatakse kontrollimaks, kas praegune kasutaja on administraator.
 
 *
 ### Seansi juhtimine:
-    Seansi alustamiseks <sup> kasutage funktsiooni </sup> session_start().
-    Kood eeldab, et seansis <sub> salvestatakse teave administraatori </sub> oleku kohta.
+    Seansi alustamiseks kasutage funktsiooni session_start().
+    Kood eeldab, et seansis salvestatakse teave administraatori oleku kohta.
 
 
 ```
