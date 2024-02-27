@@ -6,7 +6,7 @@ Md-laiendiga fail on Markdowni dokument.
 Markdown on kerge märgistuskeel, mis on loodud lihtsate märkide ja süntaksi abil teksti hõlpsaks vormindamiseks. 
 See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konverteeritav keerukamatesse vormingutesse, nagu HTML.
 
-[Veebpage](https://https://denissgorjunov22.thkit.ee/content/haldus/haldusleht.php/)
+[Veebileht](https://denissgorjunov22.thkit.ee)
 
 
 ## Tantsupaaride punktide haldamine:
