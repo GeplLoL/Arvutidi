@@ -115,3 +115,6 @@ function isAdmin(){
 
 
 ![image](https://github.com/GeplLoL/Tantsud/assets/85700200/60bcde1d-356f-44cb-a34a-2ec1171b2ca0)
+
+
+![image](https://github.com/GeplLoL/Tantsud/assets/85700200/b447f181-f65a-49f1-aa21-ce33fbf2c633)
