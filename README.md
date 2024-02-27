@@ -2,8 +2,8 @@
 ## Looge oma proosale ja koodile GitHubis lihtsa süntaksiga keerukas vorming.
 ### PHP kood, mis sisaldab veebisaidi peamist loogikat
 
-```{style="color: green;"}
-Md-laiendiga fail on Markdowni dokument.
+<span style="color:green;">Md-laiendiga fail on Markdowni dokument.</span>
+
 Markdown on kerge märgistuskeel, mis on loodud lihtsate märkide ja süntaksi abil teksti hõlpsaks vormindamiseks. 
 See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konverteeritav keerukamatesse vormingutesse, nagu HTML.
 
