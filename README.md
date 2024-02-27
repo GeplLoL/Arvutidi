@@ -1,5 +1,5 @@
 # Töö tehti PHP praktika eesmärgil
-## PHP kood, mis sisaldab veebisaidi peamist loogikat
+### PHP kood, mis sisaldab veebisaidi peamist loogikat
 ```
 require_once('tantsus.php');
 session_start();
