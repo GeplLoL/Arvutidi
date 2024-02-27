@@ -7,9 +7,13 @@ Markdown on kerge märgistuskeel, mis on loodud lihtsate märkide ja süntaksi a
 See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konverteeritav keerukamatesse vormingutesse, nagu HTML.
 
 [Veebileht](https://denissgorjunov22.thkit.ee)
+
 [Tegevusskeem] (https://denissgorjunov22.thkit.ee/DenissGorjunov/tegevusskeem/)
+
 [UML konspekt](https://denissgorjunov22.thkit.ee/DenissGorjunov/uml-konspekt/)
+
 [Case vahendit](https://denissgorjunov22.thkit.ee/DenissGorjunov/case-vahendid/)
+
 ## Tantsupaaride punktide haldamine:
     Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
     Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
