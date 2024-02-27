@@ -110,4 +110,4 @@ function isAdmin(){
 }
 ?>
 ```
-![image](https://github.com/GeplLoL/Tantsud/assets/85700200/4193af75-07b6-4d0d-9e19-b8faa74247b3)
+![image](https://github.com/GeplLoL/Tantsud/assets/85700200/60bcde1d-356f-44cb-a34a-2ec1171b2ca0)
