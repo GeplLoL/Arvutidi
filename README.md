@@ -34,7 +34,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
     Kui päringus on kommentaar ja uuskomment parameetrid olemas ja kui kasutaja ei ole administraator, lisatakse tantsupaarile kommentaar.
 
 *
-### Kõigi <sub>tantsupaari kommentaaride kustutamine:</sub>
+### Kõigi tantsupaari kommentaaride kustutamine:
     Kui päringus on parameeter commentDel ja kui kasutaja on administraator, kustutatakse kõik määratud tantsupaari kommentaarid.
 
 *
