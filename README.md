@@ -75,33 +75,32 @@ function isAdmin(){
 }
 ?>
 ```
-**
-Tantsupaaride punktide haldamine:
+
+## Tantsupaaride punktide haldamine:
 Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
 Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
-**
 
 *
-Uue tantsupaari lisamine:
+###Uue tantsupaari lisamine:
 Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
 
 *
-Tantsupaari eemaldamine:
+###Tantsupaari eemaldamine:
 Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
 
 *
-Kommentaari lisamine tantsupaarile:
+###Kommentaari lisamine tantsupaarile:
 Kui päringus on kommentaar ja uuskomment parameetrid olemas ja kui kasutaja ei ole administraator, lisatakse tantsupaarile kommentaar.
 
 *
-Kõigi <sub>tantsupaari kommentaaride kustutamine:</sub>
+###Kõigi <sub>tantsupaari kommentaaride kustutamine:</sub>
 Kui päringus on parameeter commentDel ja kui kasutaja on administraator, kustutatakse kõik määratud tantsupaari kommentaarid.
 
 *
-Juurdepääsuõiguste kontrollimine:
+###Juurdepääsuõiguste kontrollimine:
 Funktsiooni isAdmin() <sup> kasutatakse kontrollimaks, kas praegune</sup>  kasutaja on administraator.
 
 *
-Seansi juhtimine:
+###Seansi juhtimine:
 Seansi alustamiseks <sup> kasutage funktsiooni </sup> session_start().
 Kood eeldab, et seansis <sub> salvestatakse teave administraatori </sub> oleku kohta.
