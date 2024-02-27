@@ -6,34 +6,37 @@ Md-laiendiga fail on Markdowni dokument.
 Markdown on kerge märgistuskeel, mis on loodud lihtsate märkide ja süntaksi abil teksti hõlpsaks vormindamiseks. 
 See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konverteeritav keerukamatesse vormingutesse, nagu HTML.
 
+[Veebpage](https://https://denissgorjunov22.thkit.ee/content/haldus/haldusleht.php/)
+
+
 ## Tantsupaaride punktide haldamine:
-    -Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
-    -Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
+    Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
+    Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
 
 *
 ### Uue tantsupaari lisamine:
-    -Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
+    Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
 
 *
 ### Tantsupaari eemaldamine:
-    -Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
+    Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
 
 *
 ### Kommentaari lisamine tantsupaarile:
-    -Kui päringus on kommentaar ja uuskomment parameetrid olemas ja kui kasutaja ei ole administraator, lisatakse tantsupaarile kommentaar.
+    Kui päringus on kommentaar ja uuskomment parameetrid olemas ja kui kasutaja ei ole administraator, lisatakse tantsupaarile kommentaar.
 
 *
 ### Kõigi <sub>tantsupaari kommentaaride kustutamine:</sub>
-    -Kui päringus on parameeter commentDel ja kui kasutaja on administraator, kustutatakse kõik määratud tantsupaari kommentaarid.
+    Kui päringus on parameeter commentDel ja kui kasutaja on administraator, kustutatakse kõik määratud tantsupaari kommentaarid.
 
 *
 ### Juurdepääsuõiguste kontrollimine:
-    -Funktsiooni isAdmin() <sup> kasutatakse kontrollimaks, kas praegune</sup>  kasutaja on administraator.
+    Funktsiooni isAdmin() <sup> kasutatakse kontrollimaks, kas praegune</sup>  kasutaja on administraator.
 
 *
 ### Seansi juhtimine:
-    -Seansi alustamiseks <sup> kasutage funktsiooni </sup> session_start().
-    -Kood eeldab, et seansis <sub> salvestatakse teave administraatori </sub> oleku kohta.
+    Seansi alustamiseks <sup> kasutage funktsiooni </sup> session_start().
+    Kood eeldab, et seansis <sub> salvestatakse teave administraatori </sub> oleku kohta.
 
 
 ```
@@ -111,8 +114,6 @@ function isAdmin(){
 }
 ?>
 ```
-[GitHub Pages](https://https://denissgorjunov22.thkit.ee/content/haldus/haldusleht.php/)
-
 ![image](https://github.com/GeplLoL/Tantsud/assets/85700200/69b6eb5f-d792-4089-8160-14e25d6fa275)
 
 
