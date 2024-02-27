@@ -8,9 +8,9 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Veebileht](https://denissgorjunov22.thkit.ee)
 
-[Tegevusskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/tegevusskeem/)
-
 [UML konspekt](https://denissgorjunov22.thkit.ee/DenissGorjunov/uml-konspekt/)
+
+[Tegevusskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/tegevusskeem/)
 
 [Case vahendit](https://denissgorjunov22.thkit.ee/DenissGorjunov/case-vahendid/)
 
