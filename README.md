@@ -14,6 +14,9 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Case vahendit](https://denissgorjunov22.thkit.ee/DenissGorjunov/case-vahendid/)
 
+[Andmebaasiskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/andmebaasi-skeem/)
+
+
 ## Tantsupaaride punktide haldamine:
     Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
     Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
