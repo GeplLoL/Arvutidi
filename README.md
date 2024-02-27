@@ -1,5 +1,5 @@
 # Töö tehti PHP praktika eesmärgil
-## Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+## Looge oma proosale ja koodile GitHubis lihtsa süntaksiga keerukas vorming.
 ### PHP kood, mis sisaldab veebisaidi peamist loogikat
 
 Md-laiendiga fail on Markdowni dokument. 
