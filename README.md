@@ -16,7 +16,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Andmebaasiskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/andmebaasi-skeem/)
 
-##Sisukord
+## Sisukord
 
 1. [Tantsupaaride punktide haldamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#tantsupaaride-punktide-haldamine)
 2. [Uue tantsupaari lisamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#uue-tantsupaari-lisamine)
